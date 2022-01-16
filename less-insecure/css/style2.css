@@ -1,0 +1,39 @@
+html {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+table {
+border-collapse: collapse;
+width: 100%;
+color: SlateGray;
+font-family: monospace;
+font-size: 25px;
+text-align: left;
+}
+th {
+background-color: SlateGray;
+color: white;
+}
+tr:nth-child(even) {background-color: lavender;
+}
+#button{
+  border-radius: 50px;
+  background-color: silver;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  margin: 10px;
+  padding: 10px;
+  font-family: Verdana, sans-serif;
+}
+#button:hover{
+  border-radius: 50px;
+	background-color: white;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
