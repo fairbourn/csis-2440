@@ -1,0 +1,51 @@
+CREATE TABLE product (
+	id int(30) not null PRIMARY KEY AUTO_INCREMENT,
+    name varchar(50) not null,
+    description varchar(500) not null,
+    image varchar(100) not null,
+    price float not null
+);
+
+
+INSERT INTO product (name, description, image, price) VALUES ('Anvil', 'description', 'img/1.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Axle Grease', 'description', 'img/2.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Atom Re-Arranger', 'description', 'img/3.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Bed Springs', 'description', 'img/4.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Bird Seed', 'description', 'img/5.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Blasting Powder', 'description', 'img/6.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Cork', 'description', 'img/7.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Disintegration Pistol', 'description', 'img/8.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Earthquake Pills', 'description', 'img/9.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Female Roadrunner costume', 'description', 'img/10.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Giant Rubber Band', 'description', 'img/11.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Instant Girl', 'description', 'img/12.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Iron Carrot', 'description', 'img/13.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Jet Propelled Unicycle', 'description', 'img/14.jpg', '1.00');
+INSERT INTO product (name, description, image, price) VALUES ('Out-Board Motor', 'description', 'img/15.jpg', '15.00');
+INSERT INTO product (name, description, image, price) VALUES ('Railroad Track', 'description', 'img/16.jpg', '16.00');
+INSERT INTO product (name, description, image, price) VALUES ('Rocket Sled', 'description', 'img/17.jpg', '17.00');
+INSERT INTO product (name, description, image, price) VALUES ('Super Outfit', 'description', 'img/18.jpg', '18.00');
+INSERT INTO product (name, description, image, price) VALUES ('Time Space Gun', 'description', 'img/19.jpg', '19.00');
+x
+
+
+
+INSERT INTO product (name, description, image, price) VALUES ('Anvil' 'Axle Grease' 'Atom Re-Arranger' 'Bed Springs' 'Bird Seed' 'Blasting Powder' 'Cork' 'Disintegration Pistol' 'Earthquake Pills' 'Female Roadrunner costume' 'Giant Rubber Band' 'Instant Girl' 'Iron Carrot' 'Jet Propelled Unicycle' 'Out-Board Motor' 'Railroad Track' 'Rocket Sled' 'Super Outfit' 'Time Space Gun' 'X-Ray', 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description' 'description', 'img/1.jpg' 'img/2.jpg' 'img/3.jpg' 'img/4.jpg' 'img/5.jpg' 'img/6.jpg' 'img/7.jpg' 'img/8.jpg' 'img/9.jpg' 'img/10.jpg' 'img/11.jpg' 'img/12.jpg' 'img/13.jpg' 'img/14.jpg' 'img/15.jpg' 'img/16.jpg' 'img/17.jpg' 'img/18.jpg' 'img/19.jpg' 'img/20.jpg', '1.00' '2.00' '3.00' '4.00' '5.00' '6.00' '7.00' '8.00' '9.00' '10.00' '11.00' '12.00' '13.00' '14.00' '15.00' '16.00' '17.00' '18.00' '19.00' '20.00')
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time Space Gun
+X-Ray
