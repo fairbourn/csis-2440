@@ -1,0 +1,53 @@
+/*controls font/color/size text and background*/
+body{
+  color: red;
+  background-color: AntiqueWhite;
+  font-size: 20px;
+  font-family: OCR A Std, monospace;
+}
+/*controls the header font/color/size*/
+h1{
+  text-align: center;
+  font-size: 60px;
+  color: Black;
+}
+/*controls the button(form)*/
+input{
+  text-align: center;
+	color: black;
+	background-color: white;
+	width: 270px;
+	height: 70px;
+	border-radius: 25px;
+	font-size: 15px;
+  font-family: OCR A Std, monospace;
+}
+/*when hovering over button/form color changes*/
+input:hover{
+	background-color: Ivory;
+	color: black;
+}
+/*centers button within div1 better*/
+.div2{
+  padding: 16px;
+  margin: 16px auto;
+  width: 600px;
+	height: 50px;
+  padding: 32px;
+  border: LightSteelBlue solid;
+	background-color: LightSteelBlue;
+	text-align: center;
+	border-radius: 50px;
+}
+/*where button is placed on page*/
+.div1{
+  padding: 16px;
+  margin: 16px auto;
+  width: 800px;
+	height: 474px;
+  padding: 32px;
+  border: LightSteelBlue solid;
+	background-color: LightSteelBlue;
+	text-align: center;
+	border-radius: 50px;
+}

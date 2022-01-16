@@ -1,0 +1,49 @@
+/*controls font/color/size text and background*/
+body{
+  color: black;
+  background-color: Gainsboro;
+  font-size: 20px;
+  font-family: OCR A Std, monospace;
+}
+/*controls the header font/color/size*/
+h1{
+  text-align: center;
+  font-size: 60px;
+  color: Black;
+  font-family: cursive;
+}
+h2{
+  text-align: center;
+  font-size: 20px;
+  color: LimeGreen;
+  font-family: serif;
+}
+/*centers button within div1 better*/
+.div2{
+  font-family: serif;
+  color: LimeGreen;
+  padding: 16px;
+  margin: 16px auto;
+  width: 500px;
+	height: 50px;
+  padding: 32px;
+  border: LimeGreen solid;
+	text-align: center;
+	border-radius: 50px;
+}
+/*where button is placed on page*/
+.div1{
+  padding: 16px;
+  margin: 16px auto;
+  width: 800px;
+	height: 486px;
+  padding: 32px;
+  border: BurlyWood solid;
+	background-color: BurlyWood;
+	text-align: left;
+	border-radius: 20px;
+}
+.text{
+  text-align: center;
+  font-family: cursive;
+}
