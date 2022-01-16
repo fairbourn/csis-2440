@@ -1,0 +1,26 @@
+
+/*controls font/color/size text and background*/
+body{
+  color: Black;
+  background-color: Lavender;
+  font-size: 20px;
+  font-family: OCR A Std, monospace;
+}
+/*controls the header font/color/size*/
+h1{
+  text-align: center;
+  font-size: 60px;
+  color: Black;
+}
+/*holds order information*/
+.div2{
+  padding: 16px;
+  margin: 16px auto;
+  width: 800px;
+  height: 900px;
+  padding: 32px;
+  border: ivory solid;
+  background-color: ivory;
+  text-align: center;
+  border-radius: 50px;
+}
